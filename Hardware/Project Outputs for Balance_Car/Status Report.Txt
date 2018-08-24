@@ -1,0 +1,14 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Balance_Car.PrjPcb]
+   Generated File[Balance_Car2.GD1]
+   Generated File[Balance_Car2.GG1]
+   Generated File[Balance_Car2.RUL]
+   Generated File[Balance_Car2.EXTREP]
+   Generated File[Balance_Car2.REP]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 10:23:27 On 2018/8/23

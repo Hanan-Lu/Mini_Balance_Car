@@ -1,0 +1,29 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Balance_Car2.PcbDoc   2018/8/23  10:20:34
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Balance_Car2-RoundHoles.TXT
+ASCII SlotHoles File : Balance_Car2-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             94        PTH        0.00inch (0.00mm)
+T2      20mil (0.5mm)                                             Round             95        PTH        0.00inch (0.00mm)
+T3      20mil (0.508mm)                                           Round             5         PTH        0.00inch (0.00mm)
+T4      24mil (0.6mm)                                             Slot              4         PTH        0.00inch (0.00mm)
+T5      28mil (0.7mm)                                             Round             17        PTH        0.00inch (0.00mm)
+T6      28mil (0.711mm)                                           Round             55        PTH        0.00inch (0.00mm)
+T7      33mil (0.85mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T8      35mil (0.9mm)                                             Round             75        PTH        0.00inch (0.00mm)
+T9      40mil (1.02mm)                                            Round             12        PTH        0.00inch (0.00mm)
+T10     43mil (1.1mm)                                             Round             1         PTH        0.00inch (0.00mm)
+T11     47mil (1.2mm)                                             Slot              3         PTH        0.00inch (0.00mm)
+T12     57mil (1.45mm)                                            Round             1         PTH        0.00inch (0.00mm)
+T13     59mil (1.5mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T14     118mil (3mm)                                              Round             2         PTH        0.00inch (0.00mm)
+T15     122mil (3.1mm)                                            Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              374
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -9,17 +9,17 @@
 `输入电压：DC 12.6V - 11.1V`<br>
 
 # 器件选型：
-    主控芯片：    STM32F103RCT6 <br>
-    电机驱动：    TB6612FNG <br>
-    角度传感器:   MPU6050 <br>
-    USB转UART：  CH340 <br>
-    Buck芯片(12V转5V)   MP2359 <br>
-    Buck芯片(12V转11V)  LM2596-ADJ <br>
+    主控芯片：    STM32F103RCT6 
+    电机驱动：    TB6612FNG 
+    角度传感器:   MPU6050 
+    USB转UART：  CH340 
+    Buck芯片(12V转5V)   MP2359 
+    Buck芯片(12V转11V)  LM2596-ADJ 
     
 # 预留接口：
-    OLED12864 SPI 接口 <br>
-    HC-04 蓝牙模块接口 <br>
-    NRF2401 2.4GHZ模块接口 <br>
-    预留了三路电位器，可以使用其调节参数 <br>
-    2个用户自定义按键 <br>
-    空闲I/O引出   <br>
+    OLED12864 SPI 接口 
+    HC-04 蓝牙模块接口 
+    NRF2401 2.4GHZ模块接口 
+    预留了三路电位器，可以使用其调节参数 
+    2个用户自定义按键 
+    空闲I/O引出   
